@@ -1,0 +1,5 @@
+- **TryHackMe SOC Level 1 Path**
+- **MITRE ATT&CK Framework Documentation**
+- **SANS Reading Room - Incident Handling Papers**
+- **Cybersecurity Domains Podcast**
+- **r/cybersecurity and r/AskNetsec communities**
